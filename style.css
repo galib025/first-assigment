@@ -1,0 +1,59 @@
+body{
+    ont-family: 'Nunito', sans-serif;
+    
+}
+h1{
+    font-size:60px;
+    color: brown;
+}
+
+.last-part{
+    text-align: center;
+    font-size: 30px;
+    background-color: black;
+    padding: 20px 20px;
+}
+#color{
+    color: cornflowerblue;
+    font-size:large;
+}
+
+
+p{
+    font-weight: 700;
+    font-size: 25px;
+}
+.recipi{
+    text-align: center;
+}
+.orange-color{
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 20px 40px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 700;
+}
+.flex{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    padding:10px 20px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+.half-width img{
+    width: 80%;
+}
+.radious{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
+.middle-area{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
